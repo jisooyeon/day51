@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    background: #ECECEC;
+    
+}
+
+.box {
+    width: 851px;
+    height: 828px;
+    float: left;
+}
+
+#title {
+    display: flex;
+    background: pink;
+    width: 100%;
+    border: 1px solid red;
+}
+
+#title .img img {
+    width: 100%;
+}
+
+.img,.text {
+    width: 50%;
+}
+
+nav {
+    border: 1px solid #333;
+}
+ 
+#nav2>ul {
+    text-align: right;
+}
+#nav2>ul li {
+    display: inline-block;
+}
+
+hr {
+    width: 1192px;
+}
+
+.div {
+    width: 1540px;
+    height: 150px;
+    text-align: center;
+}
+
+.div img {
+    margin: 2em;
+}
+
+.div2 {
+    text-align: center;
+}
